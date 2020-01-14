@@ -1,22 +1,29 @@
-# passionfruit
-← index.html
+passion-fruit
+------------
+
+### ← index.html
+
 includes scripts, empty canvases and divs
 
-← style.css
+### ← style.css
+
 all style information
 
-← script.js
+### ← script.js
+
 main script handling interaction and drawing
 
-← graph.js
+### ← graph.js
+
 class for undirected graphs and utility for finding hull
 
-← Okb.js
+### ← Okb.js
+
 my procedural generation js library
 
-← assets
-no assets at all.
+### ← assets
+
+no `assets` at all.
+
 
 \ ゜o゜)ノ
-
-MADE BY HEMANT KUMAR
